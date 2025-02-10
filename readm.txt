@@ -1,0 +1,2 @@
+provider md readm inportant
+permit paste and copy
