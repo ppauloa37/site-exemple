@@ -6,3 +6,5 @@
         
         
     };
+
+    window.setInterval(onContDown, 1000);
